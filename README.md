@@ -1,7 +1,6 @@
 # Threat-Hunter-Playbook
-Collection of resources related to building out the Threat Hunter Playbook, to create hunt plans for cyber threat hunter
-Be sure to check out my Whitepaper, and stay tuned for the Threat Hunter Playbooks for both ICS and Enterprise to be uploaded
-Next project, building my THP into a website for greater visualization and use
+Collection of resources related to building out the Threat Hunter Playbook, to create hunt plans for cyber threat hunter. Be sure to check out my Whitepaper, and stay tuned for the Threat Hunter Playbooks for both ICS and Enterprise to be uploaded
+- Next project, building my THP into a website for greater visualization and use
 
 ## Operating Systems
 - Security Onion: https://securityonionsolutions.com/ - free open platform for threat hunting, security monitoring, and log management
